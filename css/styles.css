@@ -1,0 +1,171 @@
+.body {
+    font-family: "Roboto";
+    color:#212121;
+    line-height: 1.1;
+    font-size: 14px;
+}
+.button1 {
+    cursor: pointer;
+    width: 200px;
+    height: 50px;
+    color: #eee;
+    background-color:#2196F3
+    
+}
+.button1:hover {
+    text-decoration: none;
+    background-color: #2196F3;
+    
+}
+.button {
+    cursor: pointer;
+    text-decoration: none;
+    width: 121px;
+    height: 38px;
+    background-color: #eee;
+    font-weight:500;
+    line-height: 1.6;
+    font-size: 16px;
+    
+}
+
+.button:hover {
+    color: #fff;
+    background-color: #2196F3;
+        }
+
+.header {
+    background-color: #E5E5E5;
+}
+.logo {
+    color: #2196F3;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+}
+    
+.logo2 {
+    color: #FFFFFF;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+}
+.logo3 {
+    color: #000 ;
+    font-family: "Raleway";
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 1.2;
+}
+.link {
+    color: #212121;
+    font-family:"Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+}
+.link:hover {
+    color: #2196F3;
+    font-family: "Roboto";
+    font-weight: 500;
+    font-size: 14px;
+    text-decoration: none;
+}
+.footer {
+    background-color: #2F303A  }   
+.text {
+    font-weight: 400;
+    color: #FFFFFF;
+}
+p{
+    font-family: "Roboto";
+    color: #757575;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+.wallpaper {
+    background-color: #2F303A;
+}
+.text2 {
+    color: #757575;
+    text-decoration: none;
+    cursor: "pointer";
+}
+.text2:hover {
+    text-decoration: none;
+    color:#2196F3
+}
+.text3 {
+    color: #757575;
+    text-decoration: none;
+    font-family: "Roboto";
+    font-weight: 500;
+    line-height: 1.1;
+}
+.text3:hover {
+    color: #2196F3;
+}
+.text4 {
+    color: #757575;
+}
+.text4:hover {
+    color:#2196F3
+}
+
+.business {
+    background-color: #2F303A;
+    width: 1600px;
+    height: 600px;
+
+}
+h1 {
+    color: #FFFFFF;
+    font-family: "Roboto";
+    font-weight: 900;
+    text-align: center;
+}
+h2 {
+    font-family: "Roboto";
+    font-size: 36px;
+    color:#212121
+}
+h4 {
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 2;
+    color: #212121}
+h5{
+    font-family: "Roboto";
+    font-weight: 500;
+    color: #212121;
+    font-weight: 1.2;
+    font-style: "bold";
+}
+
+h6 {
+    color: #212121;
+    font-family: "Roboto";
+    font-weight:700;
+}
+.lorem-ipsum {
+   background-color: #fff;
+}
+
+.team {
+    background-color: #F5F4FA;
+}
+
+.main {
+    background-color: #fff;
+    text-decoration: none;
+}
+.top {
+    Font-family: "Roboto" 
+}
+.pictures {
+    background-color: #fff;
+}
