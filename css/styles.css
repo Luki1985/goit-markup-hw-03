@@ -111,6 +111,7 @@ p{
 }
 .text4 {
     color: #757575;
+    text-decoration: none;
 }
 .text4:hover {
     color:#2196F3
